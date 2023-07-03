@@ -13,7 +13,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=moltack&border_color=86092c"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true" />
+  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true" />
 </picture>
 <picture>
   <source
@@ -24,7 +24,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=GioGardinali&layout=compact&langs_count=8&theme=moltack&border_color=86092c"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GioGardinali&layout=compact&langs_count=8" />
+  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GioGardinali&layout=compact&langs_count=8" />
 </picture>
 </div>
 <!--

@@ -6,7 +6,7 @@
   <a href="https://github.com/GioGardinali">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=aura_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -17,7 +17,7 @@
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=GioGardinali&layout=compact&langs_count=8&card_width=320&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=GioGardinali&layout=compact&langs_count=8&card_width=320&theme=aura_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source

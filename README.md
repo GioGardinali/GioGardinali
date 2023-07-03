@@ -2,7 +2,7 @@
 <!--
   costrução do dados estáticos, com principais linguagens e logs no git com modo dark e light
 -->
-<div>
+<div align="center>
   <a href="https://github.com/GioGardinali">
 <picture>
   <source

@@ -2,36 +2,10 @@
 <!--
   costrução do dados estáticos, com principais linguagens e logs no git com modo dark e light
 -->
-<div align="center>
-  <a href="https://github.com/GioGardinali">
-<div align="center>
-<picture align="center">
-  <source align="center"
-    srcset="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=aura_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source align="center"
-    srcset="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=moltack&border_color=86092c"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=170em width=46% align="center" src="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true" />
-</picture>
-</div>
-  <br>
-<div align="center>
-<picture align="center">
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&langs_count=8&theme=aura_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source align="center"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&langs_count=8&theme=moltack&border_color=86092c"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=170em width=49% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&langs_count=8" />
-</picture>
-</div>
-</div>
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false"width="380px"/>     
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&theme=aura_dark&hide_border=false" width="400px"/>
+<div/>
 <!--
   costrução do dados estáticos, com principais linguagens e logs no git com modo dark e light
 -->

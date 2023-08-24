@@ -13,8 +13,8 @@ Aos poucos, irei postar meus trabalhos de UX e UI, além dos sites em que realiz
   costrução do dados estáticos, com principais linguagens e logs no git com modo dark e light
 -->
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false"width="380px"/>     
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&theme=aura_dark&hide_border=false" width="400px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=omni&hide_border=false&include_all_commits=false&count_private=false"width="380px"/>     
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&theme=omni&hide_border=false" width="400px"/>
 <div/>
   <br> <br>
 </p>

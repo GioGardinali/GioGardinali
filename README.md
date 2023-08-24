@@ -1,13 +1,6 @@
 <h1 align="center"> 👩🏻‍💻 </h1>
 <!--
-  costrução do dados estáticos, com principais linguagens e logs no git com modo dark e light
--->
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false"width="380px"/>     
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&theme=aura_dark&hide_border=false" width="400px"/>
-<div/>
-<!--
-  costrução do dados estáticos, com principais linguagens e logs no git com modo dark e light
+  introduction and hard skills
 -->
   <h2 align="center"> Olá, eu sou a Giovanna Gardinali!</h2> <br>
 <p align="center">
@@ -15,6 +8,14 @@
 Estou me aprimorando em e-commerce com a utilização do Woocommerce, Shopify e Loja integrada!<br>
 Aos poucos, irei postar meus trabalhos de UX e UI, além dos sites em que realizei a consultoria ;)
   </samp>
+ <br> <br>
+<!--
+  costrução do dados estáticos, com principais linguagens e logs no git com modo dark e light
+-->
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false"width="380px"/>     
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&theme=aura_dark&hide_border=false" width="400px"/>
+<div/>
   <br> <br>
 </p>
 <h2  align="center">📫 Você pode me achar em outras redes também!</h2>

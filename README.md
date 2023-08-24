@@ -13,18 +13,18 @@
     srcset="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true&theme=moltack&border_color=86092c"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true" />
+  <img height=170em width=46% align="center" src="https://github-readme-stats.vercel.app/api?username=GioGardinali&show_icons=true" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&langs_count=8&card_width=450&theme=aura_dark"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&langs_count=8&theme=aura_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&langs_count=8&theme=moltack&border_color=86092c"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=170em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&langs_count=8" />
+  <img height=170em width=49% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GioGardinali&langs_count=8" />
 </picture>
 </div>
 <!--
@@ -80,8 +80,8 @@ Aos poucos, irei postar meus trabalhos de UX e UI, além dos sites em que realiz
 
 <h2 align="center"> 🏅 42 École Badges</h2>
 <div align="center" style="display:inline_block"><br/>
-<a href="https://github.com/solismesmo/42_Piscine"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/piscine.png' usemap="" alt='Hi' width="100"/></a>
-<a href="https://github.com/solismesmo/42_Libft"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/libftm.png' usemap="" alt='Hi' width="100"/></a>
+<a href="https://github.com/solismesmo/42_Piscine"><img src='https://github.com/GioGardinali/GioGardinali/blob/main/42_badges/piscine.png' usemap="" alt='piscine may 2023' width="100"/></a>
+<a href="https://github.com/solismesmo/42_Libft"><img src='https://github.com/GioGardinali/GioGardinali/blob/main/42_badges/libftm.png' usemap="" alt='libft plus with bonus' width="100"/></a>
 </div>
 
 <h2  align="center">💻 Cheque meus repositórios ⬇️ </h2>
